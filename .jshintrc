@@ -1,0 +1,12 @@
+{
+  "strict": "global",
+  "esversion": 6,
+  "browser": true,
+  "devel": true,
+  "loopfunc": true,
+  "globals": {
+    "game": true,
+    "Box2D": true,
+    "images": true
+  }
+}
